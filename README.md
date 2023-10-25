@@ -8,5 +8,7 @@ Library(JAR Files) : mysql-connector-java-5.1.48 , ojdbc14-10.2.0.2.0 , fontawes
 3. import the jar file in NetBeans.
 4. Run it on Apache NetBeans.
 
+![Screenshot (7)](https://github.com/Gauthambhandary/Movie-Ticket-Booking-System/assets/76608448/3c3598c0-b39e-4dde-967c-d6773a685e38)
+
    
 
